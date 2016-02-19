@@ -1,0 +1,4 @@
+When "git push [$there]" does not say what to push, we have used the
+traditional "matching" semantics so far (all your branches were sent
+to the remote as long as there already are branches of the same name
+over there).  
